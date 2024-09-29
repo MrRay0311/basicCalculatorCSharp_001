@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\calculatorImprovedHomework\calculatorImprovedHomework\bin\Debug\calculatorImprovedHomework.exe.config
+C:\Users\user\source\repos\calculatorImprovedHomework\calculatorImprovedHomework\bin\Debug\calculatorImprovedHomework.exe
+C:\Users\user\source\repos\calculatorImprovedHomework\calculatorImprovedHomework\bin\Debug\calculatorImprovedHomework.pdb
+C:\Users\user\source\repos\calculatorImprovedHomework\calculatorImprovedHomework\obj\Debug\calculatorImprovedHomework.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\calculatorImprovedHomework\calculatorImprovedHomework\obj\Debug\calculatorImprovedHomework.Properties.Resources.resources
+C:\Users\user\source\repos\calculatorImprovedHomework\calculatorImprovedHomework\obj\Debug\calculatorImprovedHomework.csproj.GenerateResource.cache
+C:\Users\user\source\repos\calculatorImprovedHomework\calculatorImprovedHomework\obj\Debug\calculatorImprovedHomework.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\calculatorImprovedHomework\calculatorImprovedHomework\obj\Debug\calculatorImprovedHomework.exe
+C:\Users\user\source\repos\calculatorImprovedHomework\calculatorImprovedHomework\obj\Debug\calculatorImprovedHomework.pdb
+C:\Users\user\source\repos\calculatorImprovedHomework\calculatorImprovedHomework\obj\Debug\calculatorImprovedHomework.Form1.resources
